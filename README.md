@@ -1,4 +1,4 @@
-# 📚 BookLibrary
+# 📚 BookLibrary.
 
 A simple **Library Management System** built with **Java, JSP, Servlets, JDBC, and SQL Server/MySQL**.  
 This project is developed as part of learning full-stack Java web development, following clean coding principles and version control with Git/GitHub.
